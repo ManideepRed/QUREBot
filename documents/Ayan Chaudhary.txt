@@ -1,0 +1,20 @@
+Ayan Chaudhary is an Assistant Professor in the Department of Computer Science end Engineering at Indian Institute of Technology Kharagpur. Before joining IIT Kharagpur, Ayan Chaudhary spent beautiful 2½ years as a postdoc at INRIA in the MOSAIC team working with Christophe Godin. Before that, Ayan Chaudhary was a visiting scientist during the period Dec'18-Jan'19 at CVPR Unit, Indian Statistical Institute Kolkata, hosted by Ujjwal Bhattacharya. Previously Ayan Chaudhary was a postdoc for about an year at KTH Royal Institute of Technology in the Lagergren lab. Ayan Chaudhary did his PhD in October 2017 in Computer Science from University of Western Ontario where Ayan Chaudhary was advised by John Barron. Ayan Chaudhary did his bachelors in Physics (Hons.) and masters in Computer Science & Engineering from University of Calcutta.
+
+Ayan Chaudhary is interested in 3D computer vision and geometry processing in general. Ayan Chaudhary is fascinated about problems like multi/single view 3D reconstruction, point cloud registration, segmentation, and shape analysis problems for different application areas. These days Ayan Chaudhary is focusing on problems like correspondence estimation between deformable and occluded objects, object detection and registration in cluttered scene, part segmentation, volumetric reconstruction, and related problems. Alongside, Ayan Chaudhary has been (& still) working in the interdisciplinary area on agricultural robotics and plant phenomics applications of computer vision. This area is an intersection of computer vision, machine learning, computational biology and agricultural automation. Ayan Chaudhary's long term goal is to develop light-weight, low-cost and robust computer vision based systems targeted for developing farms to assist in smart agricultural applications (e.g. organ tracking, disease detection, plant monitoring, etc).
+
+Ayan Chaudhary Teachings/Courses:
+Spring Semester 2025:
+Programming and data structures (CS10003)
+Programming and data structures laboratory (CS19003)
+Autumn Semester 2024:
+Algorithms-I (CS21203)
+Algorithms laboratory (CS29203)
+Spring Semester 24:
+Computer Graphics (CS60012)
+Programming and data structures laboratory (CS19003)
+
+Ayan Chaudhary Projects:
+1)"Multimodal Learning of Document Image Features With Mobile VLM Using Data Centric Approach", Microsoft India R&D, 2024-'25 (role: Co-PI)
+2)"4D Shape Reconstruction and Pose Estimation of Underwater Fish towards Smart Aquaponic System", Technology Innovation Hub on AI and ML for Interdisciplinary Cyber Physical Systems (AI4ICPS), 2023-'25 (role: Co-PI)
+3)"Deep 3D Plant Organ Segmentation: from Annotated Real Data to Geometric Plant Models", Faculty Start-up Research Grant IIT Kharagpur, 2023-'26 (role: PI)
+4)"3D Reconstruction of Deformable Plants for Smart Farming and Remote Sensing Applications", DST SERB (Start-up Research Grant), 2022-'24 (role: PI)

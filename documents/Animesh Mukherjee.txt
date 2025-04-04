@@ -1,0 +1,9 @@
+Animesh Mukherjee is a Full Professor in the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur. Prior to this, Animesh Mukherjee was working as a post doctoral researcher in the Complex Systems Lagrange Lab, ISI Foundation, Italy. Animesh Mukherjee received my PhD from the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur with a thesis on self-organization of human speech sound inventories. Animesh Mukherjee's main research interests center around content governance which includes (i) content moderation (harmful content analysis, detection, and mitigation), (ii) content dissemination (fairness issues in e-commerce platforms and interfaced systems like facial recognition, automatic speech recognition etc.), and (iii) content maintenance (quality analysis and improvement of encyclopaedia like Wikipedia and large software systems like Ubuntu releases). In all these applications, Animesh Mukherjee extensively uses concepts from NLP, IR, and network science.
+
+Animesh Mukherjee Courses/Teachings:
+Formal Language and Automata Theory, CS21004, Spring Semester 2024.
+Complex Networks, Spring Semester 2024.
+Information Retrieval,  Autumn Semester 2024.
+Natural Language Processing,  Autumn Semester 2024.
+Formal Language and Automata Theory , Spring Semester 2025.
+Safety Fundamentals for Generative AI,  Spring Semester 2025.

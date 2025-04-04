@@ -1,0 +1,32 @@
+Abhijnan Chakraborty is an Assistant Professor in the Department of Computer Science and Engineering at Indian Institute of Technology (IIT) Kharagpur. Earlier, Abhijnan Chakraborty was an Assistant Professor at IIT Delhi in the Department of Computer Science and was also associated with the School of Artificial Intelligence. In 2022, Abhijnan Chakraborty was inducted as a Young Associate of the Indian National Academy of Engineering (INAE). Before IIT Delhi, Abhijnan Chakraborty has worked for 2.5 years at the Max Planck Institute for Software Systems (MPI-SWS) as a post-doctoral researcher. Abhijnan Chakraborty obtained my PhD from IIT Kharagpur, where Abhijnan Chakraborty was jointly advised by Prof. Niloy Ganguly from IIT Kharagpur and Prof. Krishna Gummadi from MPI-SWS. During PhD, I was awarded the prestigious Prime Minister's Fellowship for Doctoral Research and Google India PhD Fellowship. Abhijnan Chakraborty has also worked at Microsoft Research for two years.
+
+Abhijnan Chakraborty research interests span the research areas of Responsible Artificial Intelligence, Fairness in Algorithmic Decision Making, Social Computing, and AI for Social Good. The problems Abhijnan Chakraborty studies usually have two distinct aspects: an algorithmic aspect and a societal aspect. A common thread in Abhijnan Chakraborty's research lies in collecting and analyzing large scale data from online systems to understand whether there is any cause for concern, and then develop mechanisms to eliminate or reduce the impact. Abhijnan Chakraborty's research agenda is inherently interdisciplinary, and therefore, the tools and theories that Abhijnan Chakraborty often uses in his works come from machine learning, network science, media studies, computational social choice, social welfare and behavioral economics.
+
+Abhijnan Chakraborty Employment/Experiences:
+IIT Kharagpur : Assistant Professor, 2024 - Present
+IIT Delhi : Assistant Professor, 2020 - 2024
+Max Planck Institute for Software Systems : Postdoctoral Researcher, 2018 - 2020
+Microsoft Research : Reasearch Fellow, 2012 - 2014
+
+Abhijnan Chakraborty Awards:
+ IEI Young Engineer Award 2022-23
+ INAE Young Engineer Award 2022
+ Best Poster, ECIR 2019
+ Qualcomm Innovation Fellowship Finalist, 2018
+ Best Student Paper, ASONAM 2016
+ Prime Minister's Fellowship for Doctoral Research, 2015 - 2018
+ Google India PhD Fellowship for Social Computing, 2014 - 2018
+
+Abhijnan Chakraborty Education:
+ Ph.D. IIT Kharagpur : 2014 - 2018
+ M.Tech. IIT Kharagpur : 2010 - 2012
+ B.E. Jadavpur University : 2005 - 2009
+
+Courses Taught at IIT Kharagpur
+In Spring Semester 2024 Abhijnan Chakraborty taught the following courses:
+CS31204: Computer Networks
+CS39006: Networks Laboratory
+
+In Autumn Semester 2024 Abhijnan Chakraborty taught the following courses:
+CS61061: Data Analytics
+CS19003: Programming and Data Structure Laboratory

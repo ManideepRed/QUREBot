@@ -1,0 +1,16 @@
+Bivas Mitra is a faculty member (since April 2013) in the Department of Computer Science & Engineering at IIT Kharagpur, India. Prior to that, Bivas Mitra worked briefly (Aug. 2012-March 2013) with Samsung Electronics, Noida as a Chief Engineer. Bivas Mitra received my Ph.D in Computer Science & Engineering from IIT Kharagpur under the supervision of Prof. Niloy Ganguly and Prof. Sujoy Ghose. Bivas Mitra did his first postdoc (May 2010-June 2011) at the French National Centre for Scientific Research (CNRS), Paris, France and second postdoc (July 2011-July 2012) at the Universite catholique de Louvain (UCL), Belgium.
+Bivas Mitra is also associated with the Complex Networks Research Group (CNeRG), IIT Kharagpur, India.
+
+Bivas Mitra's research interests include:
+Network science, Multilayer networks
+Social networks, Data science, Anomaly detection
+Mobile affective computing, Socio-mobile applications
+Crowdsensing, Social-IoT
+Peer-to-Peer networks
+Optical networks
+
+Bivas Mitra's Teachings :
+Spring 2024-2025	CS31202	Operating Systems
+Autumn 2024-2025	CS31003	Compilers
+Spring 2023-2024	CS31202	Operating Systems
+Autumn 2023-2024	CS31003	Compilers

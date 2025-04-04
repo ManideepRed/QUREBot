@@ -1,0 +1,29 @@
+Jibesh Patra is an Assistant Professor in the Computer Science and Engineering department at the Indian Institute of Technology Kharagpur (IIT KGP), India. Jibesh Patra's research interest lies in the applications of Large Language Models (LLMs) on Software Engineering and Software Security problems. Jibesh Patra completed my PhD from the University of Stuttgart, Germany on analyzing code corpora to improve the correctness and reliability of programs advised by Prof. Michael Pradel. During my PhD, Jibesh Patra spent two wonderful summers interning at Microsoft Research Cambridge and Bangalore respectively.
+
+Jibesh Patra Teachings/Courses:
+Spring Sem 2025:
+Software Engineering
+Software Engineering Laboratory
+
+Autumn Sem 2024:
+Object-Oriented Systems
+Programming & Data Structures Lab
+
+Jibesh Patra Experiences:
+IIT Kharagpur
+Honda Research Institute
+SAP SE
+HRI
+University of Stuttgart
+Microsoft Research
+TU Darmstadt
+Max Planck Institute for Software Systems
+Max Planck Institute for Heart and Lung Research
+Google Summer of Code
+Wipro Technologies
+
+Jibesh Patra Interests:
+Software Testing
+AI for Software Engineering
+System Security
+Code Corpus Analysis

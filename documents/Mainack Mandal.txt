@@ -1,0 +1,6 @@
+Mainack Mandal is an Assistant Professor at Department of Computer Science and Engineering, IIT Kharagpur, India,Joined Institute in 2019. Previously, Mainack Mandal was a postdoctoral researcher at Cornell Tech and a member of the Digital Life Initiative where he worked with Prof. Helen Nissenbaum. Prior to joining Cornell Tech Mainack Mandal spent a fantastic year as a postdoc at the University of Chicago, Department of Computer Science. There Mainack Mandal was a member of SUPERgroup and worked with Prof. Blase Ur. Mainack Mandal completed my Ph.D. in Computer Science on November 2017 at the Max Planck Institute for Software systems where Mainack Mandal was advised by Prof. Krishna P. Gummadi.
+
+Mainack Mandal broadly interested about incorporating human factors in security and privacy, and consequently designing usable online services. His recent research focus is on developing systems to provide usable privacy and security mechanisms to online users while minimizing system abuse.
+
+Mainack Mandal is always looking for students who are interested in human aspects of privacy/security and like to tinker with systems.
+

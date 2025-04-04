@@ -1,0 +1,37 @@
+Abir Das is an Assistant Professor in the Computer Science and Engineering Department at IIT Kharagpur. Before joining IIT Kharagpur Abir Das was briefly an Assistant professor at IIIT Delhi. Abir Das was a postdoctoral researcher at Boston University under Prof. Kate Saenko before that. Abir Das completed my PhD in Electrical Engineering from the  University of California at Riverside (UCR). Abir Das's research advisor was Dr. Amit Kumar Roy-Chowdhury in the 'Video Computing Group' led by him. Before joinging UCR, Abir Das had done my Bachelor of Electrical Engineering from Jadavpur University, Calcutta, India in the year 2007
+
+Abir Das Education:
+
+1)Abir Das did Postdoctoral Researcher, Nov 2016 - July 2018
+Computer Science Department,
+Boston University, Boston, USA
+Research Area: Vision and Language (Natural Language Video Description), Computer Vision (Activity Detection, Explainable AI)
+
+2)Abir Das did Postdoctoral Researcher, Nov 2015 - Oct 2016
+Computer Science Department,
+University of Massachusetts, Lowell, USA
+Research Area: Vision and Language (Natural Language Video Description), Computer Vision (Person Re-identification and Tracking)
+
+3)Abir Das did Ph.D. Sep 2010 - Sep 2015
+Electrical Engineering,
+University of California, Riverside, USA
+Research Area: Computer Vision (Person Re-identification and Tracking, Machine Learning)
+
+4)Abir Das did M.S., Electrical Engineering, Jul 2013
+Electrical Engineering,
+University of California, Riverside, USA
+
+5)Abir Das did B.E., Electrical Engineering, Jul 2003 - Jun 2007
+Electrical Engineering,
+Jadavpur University, Kolkata, India
+
+Abir Das research interests:computer vision, machine learning , pattern recognition ,explainable AI
+
+Abir Das Courses/Teachings:
+Spring Sem 2021 : Deep Learning , Software Engineering Lab
+
+Autumn 2021 : Reinforcement Learning , Programming and Data Structures Lab
+
+Spring 2022 : Deep Learning , Software Engineering Lab
+
+Autumn 2022 : Algorithms - I , Algorithms Lab

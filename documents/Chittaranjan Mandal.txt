@@ -1,0 +1,16 @@
+Chittaranjan Mandal's books : 
+1)Soumya Pandit, Chittaranjan Mandal, Amit Patra, Nano-scale CMOS Analog Circuits: Models and CAD Techniques for High-Level Design, CRC Press, December 2013, (ISBN 978-1-4665-6426-8, nanoGift).
+2)Chandan Karfa, Dipankar Sarkar, Chittaranjan Mandal, Verification and Synthesis of Digital Circuits: High-level Synthesis and Equivalence Checking, LAMBERT Academic Publishing, August 2010 (ISBN 978-3-8383-9813-6).
+
+Chittaranjan Mandal's Tools:
+Documentation, software for Virtual laboratory for Computer Organisation and Logic Design
+A Structured Architecture Synthesis Tool and Data Path Verifier (VLSI Design 2009 EDA Contest participation and VLSI Design 2009 EDA Contest award for SAST (Prize value: Rs 20,000))
+Binaries (i586) and examples for value propagation based equivalence checking
+Binaries (i586) and examples for assorted formal equivalence checking programs
+Binaries (i586) and examples for assorted formal equivalence checking programs using Petri Net models
+TCL for collaborative cover heuristic
+Tool for Modelling and Validation of Interlocking for Railway Signalling Systems along with a demonstration
+
+Chittaranjan Mandal is a Professor at IIT KGP CSE Department
+PhD (IIT Kharagpur and Brunel)
+Chittaranjan Mandal Joined IIT KGP in 1999

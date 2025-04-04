@@ -1,0 +1,101 @@
+Debasis Samanta Education:
+Ph.D from Indian Institute of Technology Kharagpur
+M.Tech. from Jadavpur University (Gold Medalist)
+B.Tech. from Calcutta University (Topper in the batch)
+
+Debasis Samanta Research Areas:
+Human Computer Interaction
+Brain Computing
+Biometric Security
+Data Analytics
+Software Testing
+Debasis Samanta Teaching & Experiences:
+Offered the major courses to the UG and PG students of Computer Science & Engineering: Design and Analysis of Algorithms, Artificial Intelligence, Database Management Systems, Principles of Programming of Languages, Data Structures, Operating Systems, VLSI Design, Information System Design, Human Computer Interaction, Soft Computing, Data Mining, Data Analytics, etc.
+Developed learning materials and manuals for different laboratory classes.
+Proposed the new course curriculum for distance mode M.Tech program of IIT Kharagpur (M. Tech in ICT).
+Senior Lecturer in North Eastern Regional Institute of Science & Technology, Itanagar, India from 30.06.93 to 03.02.04
+Associate Professor in Indian Institute of Technology Kharagpur, India from 04.02.04 to till date.
+Debasis Samanta Awards:
+Best Article of the Year by Computer Society of India (1998)
+Best Paper award by 8th ADCOM Conference, IIT Guwahati, (2006)
+Microsoft Valued Professional award by Microsoft, USA (2007)
+Author of the Best Selling Book by Prentice Hall of India, New Delhi ((2008)
+Debasis Samanta is Member of following Professional Bodies:
+Senior Member, IEEE since 1999
+Executive Committee Member, IEEE Kharagpur Section, 2004 - 2006.
+Secretary/Treasurer, IEEE Kharagpur Section, 2007.
+Vice-Chair and Students Branch Councilor, IEEE Kharagpur Section, 2008.
+Chair, IEEE Kharagpur Section, 2009-2010.
+
+Debasis Samanta is Member of following Academic Committee
+Member, Board of Under Graduate Studies, North East Hill University, Shillong
+Member, Board of Studies, Manipal Institute of Technology, Manipal, Karnataka
+
+Debasis Samanta's Conference Organizing Committee Memberships:
+Students Activity Chair, IEEE INDICON 2004, Kharagpur
+Tutorial Chair, 6th International Workshop of Distributed Computing (IWDC 05), 2005, Kharagpur
+Finance Chair, 3rd IEEE International Conference on Information and Industrial Systems (ICIIS 2008), 2008, Kharagpur
+General Chair, IEEE TechSym 2010, 3-4 April, 2010, IIT Kharagpur
+Program Chair, 4th IHCI 2012, 27-29 December, 2012, IIT Kharagpur, India
+Steering Committee Member, 5th IHCI 2013, 3-5 December, 2013, Sydney, Australia
+Steering Committee Member, 6th IHCI 2014, 8-10 December, 2014, Evry, Paris, France
+Steering Committee Member, 7th IHCI 2015, 14-16 December, 2015, Allahabad, India
+Steering Committee Member, 9th IHCI 2017, 11-13 December, 2017, Evry, Paris, France
+
+Debasis Samanta Paper Reviewers:
+IEEE Software Engineering
+IEEE Man, Systems and Cybernetics
+IEEE Transactions on Reliability
+IEEE Transactions on Cloud Computing
+IEEE Systems
+IEEE Transactions on Computational Social Systems
+ACM Transaction of Design Automation of Electronics Systems (TODAES)
+ACM Transactions on Information and System Security (TISSEC)
+ACM Transactions on Asian Language Information Processing (TALIP)
+ACM Transactions on Computer Human Interaction (TOCHI)
+Journal of Computer and Electrical Engineering, Elsevier
+Journal of Systems and Software, Elsevier
+Journal of Software Testing, Verification and Reliability, Willey
+Software Practices and Experiences, Wiley
+IET Biometrics
+International Journal of Computer Human Inatercation (IJHCI), Taylor & Francis
+
+Debasis Samanta Administrative Responsibilities:
+Head of the Department of Computer Science & Engineering, NERIST, June 1996 to July 1999.
+Chairman, Central Purchase Committee, NERIST, 1997-1999
+Chairman, Self-employment generation in IT Scheme, sponsored by Department of Electronics, Ministry of Information Technology, Govt. of India. August 2002 to January, 2004.
+Vice-Chairman, NERIST Entrance Examination Committee
+Professor-in-Charge, Computer Operation, IIT JEE, 2006
+Program Officer, NSS, IIT Kharagpur, 2010
+
+Debasis Samanta Doctoral Scrutiny Committee Member:
+Mr. Shambhunath Pradhan (Low Power VLSI Testing, Electronics & Communication Engineering)
+Mr. Rajib Mishra (Mobile Ad Hoc Networking, Information Technology)
+Mr. Animeh Mukherjee (Human Computer Interaction, Computer Science & Engineering)
+Mr. S. J. Lalchandani (Software Testing, Computer Science & Engineering)
+Mr. Suman Kumar (Software Engineering, Computer Science & Engineering)
+Ms. Chabi Panigrahi (Software Engineering, Computer Science & Engineering)
+Mr. Samrat Mandal (Information Security, Information Technology)
+Mr. Tirthankar Dutta (Software Reliability, Reliability Engineering)
+Mr. Nived Joshi (Speech Signal Processing, Electronics & Communication Engineering)
+Ms. Charu Srijodia (Business Analytics, School of Management)
+
+Debasis Samanta courses:
+Software Engineering
+Data Analytics
+Soft Computing
+Programming and Data Structures
+
+Lab Courses:
+Programming and Data Structures Lab
+Software Engineering Lab
+
+Past Courses:
+Some of the other courses offered in the past are listed below.
+Human Computer Interaction
+Information System Design
+Soft Computing Applications
+Data Analytics
+Programming and Data Structures Lab
+Software Engineering Lab
+Programming and Data Structures

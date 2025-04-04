@@ -1,0 +1,43 @@
+Abhijit Das got his BE degree in Electronics and Telecommunication Engineering from Jadavpur University, Calcutta, in 1991, ME and PhD degrees from the Indian Institute of Science Bangalore in Computer Science and Engineering in 1993 and 2000, respectively. Dr. Das has spent a year in the Department of Mathematics, Ruhr-Universität Bochum, Germany as a Scientific Assistant, and a year as a Visiting Faculty member in the Department of Mathematics, Indian Institute of Technology Kanpur. Since 2002, he has been a permanent faculty member in the Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur. Currently, he is a Professor (since February 2018).
+During his stay in IIT Kharagpur, Abhijit Das has taught several courses in undergraduate and graduate levels. His academic and teaching interests are in the areas of algorithms, discrete mathematics, computational number theory, cryptography, formal languages and automata theory, complexity theory, graph theory, and parallel algorithms.
+The main research interest of Abhijit Das is computational number theory with applications to public-key cryptography and public-key cryptanalysis. He is also interested in efficient and parallel implementations of algorithms of interest in computational number theory and public-key cryptology. Some specific research areas of Dr. Das are algorithms for integer factorization and the discrete logarithm problem, elliptic-curve and pairing-based cryptography, cryptographic protocols in mobile and ad hoc networks, algebraic attacks, and massively parallel implementations of cryptographic and cryptanalytic algorithms.
+Abhijit Das has more than 30 publications in refereed journals and conferences. He is the (co)author of two graduate-level textbooks on public-key cryptography and computational number theory.
+
+Abhijit Das's Projects:
+Investigation of Cryptanalytic Techniques (ICT), Headquarters, Integrated Defence Staff, Ministry of Defence, Government of India.
+Principal investigator.
+Design and Analysis of an Efficient Cryptosystem for Safety Messaging over Vehicular Networks (CRLP), General Motors (R&D), India.
+Co-principal investigator.
+Design and Efficient Implementation of Advanced Encryption and Decryption Techniques for Use in Spacecraft Communication (EEC), ISRO, IIT Kharagpur Cell, Space Technology Cell, India.
+Principal investigator.
+Cryptanalysis of Cryptographic Ciphers with Emphasis on AES and RSA (CER), Ministry of Electronics and Information Technology, Government of India.
+Co-principal investigator.
+
+Abhijit Das's interests:
+Cryptography
+Number-theoretic and Algebraic Computations
+Parallel and Efficient Implementation
+Computers and Indian Languages
+
+Abhijit Das's teachings:
+Current Semester (Spring 2025)
+Theory 1	 : 	CS10003 Programming and Data Structures
+Theory 2	 : 	CS31202 Operating Systems
+Lab	 : 	CS39002 Operating Systems Laboratory
+
+Previous Semester (Autumn 2024)
+Theory	 : 	CS31003 Compilers
+Lab	 : 	CS39003 Compilers Laboratory
+
+Abhijit Das Education:
+PhD: Computer Science and Engineering, Indian Institute of Science, Bangalore, 2000. [Thesis]
+ME: Computer Science and Engineering, Indian Institute of Science, Bangalore, 1993. [Thesis]
+BE: Department of Electronics and Tele-Communication Engineering, Jadavpur University, Calcutta, 1991.
+
+Abhijit Das Experience:
+Professor, Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, 28-Feb-2018 to Present.
+Associate Professor, Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, 24-May-2011 to 28-Feb-2018.
+Assistant Professor, Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, 30-Dec-2002 to 24-May-2011.
+Visiting Faculty, Department of Mathematics and Statistics, Indian Institute of Techonolgy Kanpur, Dec 2001 to Dec 2002.
+Scientific Assistant (Wissenschaftliche Hilfskraft), Faculty of Mathematics, Ruhr-Universität Bochum, Germany, Oct 2000 to Oct 2001.
+Project Associate, Department of Computer Science and Automation, Indian Institute of Science, Bangalore, Jan 2000 to Sep 2000.

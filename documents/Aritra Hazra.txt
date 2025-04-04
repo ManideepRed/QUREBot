@@ -1,0 +1,64 @@
+Dr. Aritra Hazra is currently an Assistant Professor in the Department of Computer Science and Engineering (CSE) at Indian Institute of Technology (IIT) Kharagpur. Prior to joining IIT Kharagpur, Aritra Hazra also served as an Assistant Professor in the Department of CSE at IIT Madras from August 2015 to July 2017. Earlier, Aritra Hazra did his Bachelor of Engineering (B.E.) from the Department of CSE at Jadavpur University (Kolkata) in 2006. He received his Master of Science (M.S.) degree in 2010 and earned his Doctor of Philosophy (Ph.D.) degree in 2015, both from the Department of CSE at IIT Kharagpur.
+
+Aritra Hazra's research interest lies broadly on the areas of Formal Methods, Design Verification, VLSI CAD, Artificial Intelligence and Machine Learning. Aritra Hazra has published many research articles in several leading journals and well-known conferences, including two best student paper awards in VLSI Design Conferences (in 2010 and 2017). Aritra Hazra also received several accolades for his PhD work, including ACM (India) Best PhD Dissertation Award 2015 and IESA Technovation – TechnoInventor (Ph.D.) Award 2015.
+
+Besides, Aritra Hazra was a recipient of INAE (Indian National Academy of Engineering) Young Engineer Award in 2017 and is an Young Associate of INAE since then. Aritra Hazra was also awarded the Associateship of IASc. (Indian Academy of Science) in 2018, IEI (The Institute of Engineers India) Young Engineer Award in 2019 and Institute Faculty Excellence Award (Assistant Professor) in 2021. Aritra Hazra is a member of IEEE (Institute of Electrical and Electronics Engineers) and a professional member of ACM (Association for Computing Machinery)
+
+Aritra Hazra Education:
+2015:   Doctor of Philosophy (Ph.D.)
+Institution:      Department of Computer Science and Engineering at Indian Institute of Technology Kharagpur
+2010:   Master of Science (M.S.)
+Institution:      Department of Computer Science and Engineering at Indian Institute of Technology Kharagpur
+2006:   Bachelor of Engineering (B.E.)
+Institution:      Department of Computer Science and Engineering at Jadavpur University (Kolkata)
+
+Aritra Hazra Experience:
+Assistant Professor   (August 2017 – Present)
+Department of Computer Science and Engineering
+Indian Institute of Technology Kharagpur
+
+Assistant Professor   (August 2015 – July 2017)
+Department of Computer Science and Engineering
+Indian Institute of Technology Madras
+
+Research Associate (September 2014 – July 2015)
+Formal Methods Research Group
+Department of Computer Science and Engineering
+Indian Institute of Technology Kharagpur
+
+Aritra Hazra Experience(continued):
+Research Scholar (January 2007 – July 2014)
+Formal Methods Research Group
+Department of Computer Science and Engineering
+Indian Institute of Technology Kharagpur
+
+Research Consultant (August 2006 – August 2014)
+Sponsored Research and Industrial Consultancy (SRIC)
+Indian Institute of Technology Kharagpur
+
+
+Aritra Hazra Teachings/Courses:
+2025 Spring Semester : Foundations of Algorithm Design and Machine Learning , Programming and Data Structures
+
+
+2024 Autumn Semester : Foundations of Computing Science , Reinforcement Learning
+
+
+Aritra Hazra Research:Formal Methods for Safety-Critical System Design and Validation,Computer-Aided Design (CAD) for Security,Robust Explainability of Machine Learning Models
+
+Aritra Hazra Awards:
+2024:    Distinguished Speaker, IEEE Computer Society Young Professionals (IEEE CS SYP)
+2023:    ACM India Eminent Speaker, 2023-25
+2021:    Institute Faculty Excellence Award (Assistant Professor) 2021
+2019:    IEI (The Institute of Engineers in India) Young Engineers Award 2018-19
+2019:    Best Poster Award in ISEA-ISAP Conference 2019
+2018:    Associate of IASc (Indian Academy of Science)
+2017:    Young Associate of INAE (Indian National Academy of Engineering)
+Aritra Hazra Awards(continued):
+2017:    INAE (Indian National Academy of Engineering) Young Engineer Award 2017
+2017:    Best Student Paper Award in VLSI Design Conference 2017
+2016:    IESA (India Electronics and Semiconductor Association) Technovation 2015 - TechnoInventor (PhD) Award
+2016:    ACM India Best Doctoral Dissertation Award 2015
+2015:    IBM Best Departmental PhD Thesis Award (Dept. of CSE, IIT Kharagpur)
+2011:    Microsoft Research India PhD Fellowship Award
+2010:    Best Student Paper Award in VLSI Design Conference 2010
