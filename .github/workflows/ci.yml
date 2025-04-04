@@ -14,22 +14,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Setup Python 3.12.7
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.12.7'
-
-      - name: Install Python dependencies from requirements.txt
-        shell: pwsh
-        run: |
-          if (Test-Path requirements.txt) {
-            pip install -r requirements.txt
-          }
-
-      - name: Run backend Python script
-        shell: pwsh
-        run: python backend4easy.py
-
       - name: Setup Node.js 20.18.0
         uses: actions/setup-node@v3
         with:
@@ -46,3 +30,16 @@ jobs:
       - name: Build Next.js Project
         shell: pwsh
         run: npm run build
+
+      - name: Setup Python 3.12.7
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12.7'
+
+      - name: Install Python dependencies from requirements.txt
+        shell: pwsh
+        run: |
+          if (Test-Path requirements.txt) {
+            pip install -r requirements.txt
+          }
+
