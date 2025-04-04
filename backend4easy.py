@@ -8,11 +8,11 @@ QUERY_FILE = "./Frontend/public/input.txt"
 ANSWER_FILE = "./Frontend/public/output.txt"
 
 def read_question():
-     with open(QUERY_FILE, 'r', encoding='utf-8') as f:
-            question = f.readlines()
-     with open(QUERY_FILE, 'w', encoding='utf-8') as f:
-                    f.writelines("")
-     return question
+    with open(QUERY_FILE, 'r', encoding='utf-8') as f:
+        question = f.read().strip()
+    with open(QUERY_FILE, 'w', encoding='utf-8') as f:
+        f.write("")
+    return question
  
 def save_answer(answer):
         with open(ANSWER_FILE, 'w', encoding='utf-8') as f:
@@ -68,6 +68,7 @@ def main():
         query = read_question()
         if query:
             print("===Processing===")
+            query=[query]
             query_embedding = np.array([model.encode(query)], dtype=np.float32)
             query_embedding = query_embedding.reshape(1, -1)
             distances, indices = database.search(query_embedding, k=5)
@@ -83,5 +84,6 @@ def main():
             )
             save_answer(response.choices[0].message.content)
     
-main()
+if __name__ == "__main__":
+    main()
 
