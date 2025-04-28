@@ -76,7 +76,7 @@ def main():
             for i in range(5):
                 most_similar_text.append(chunks[indices[0][i]])
             full_prompt = f"Answer this question:{query} using information from:{most_similar_text}" 
-            client = Together(api_key="83144e3ce86dca0a0a640e9969876388e08e50a81a35a3a3f9e5e9cb1d539427")
+            client = Together(api_key="83144e3")
 
             response = client.chat.completions.create(
                 model="meta-llama/Llama-3.3-70B-Instruct-Turbo",
